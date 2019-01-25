@@ -37,7 +37,7 @@ typedef short i16_t;
 typedef int   i32_t;
 
 
-#include "bch_ecc.c"  // RS/ecc/
+#include "bch_ecc.h"  // RS/ecc/
 
 
 typedef struct {
