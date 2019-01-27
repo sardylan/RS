@@ -29,7 +29,7 @@ typedef int   i32_t;
 //#include "demod_dft.c"
 #include "demod_dft.h"
 
-#include "bch_ecc.c"  // RS/ecc/
+#include "bch_ecc.h"  // RS/ecc/
 
 
 typedef struct {
